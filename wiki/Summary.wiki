@@ -1,9 +1,9 @@
 =Welcome to the Storm Lottery Project=
 
-We hope to 
+First source will be uploaded shortly as I am still working on it. :P
 
 ==History==
-This project came about as for a personal need
+This project came about as for a personal need for lottery software. I have chosen to make this open source as my limited knowledge in PHP MySQL will make this a slow go for just me. 
 
 ==Goals==
 #1 Easy to use interface for setting up Private & Public Lotteries. <br>
