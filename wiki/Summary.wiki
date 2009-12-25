@@ -1,0 +1,10 @@
+=Welcome to the Storm Lottery Project=
+
+We hope to 
+
+==History==
+This project came about as for a personal need
+
+==Goals==
+*1 Easy to use interface for setting up Private & Public Lotteries.
+*2 Provide a solution to display current and past lotteries
