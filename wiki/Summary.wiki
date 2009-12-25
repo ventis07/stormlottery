@@ -6,5 +6,5 @@ We hope to
 This project came about as for a personal need
 
 ==Goals==
-*1 Easy to use interface for setting up Private & Public Lotteries.
-*2 Provide a solution to display current and past lotteries
+#1 Easy to use interface for setting up Private & Public Lotteries. <br>
+#2 Provide a solution to display current and previous Lotteries <br>
